@@ -10,6 +10,7 @@
 ### Content
 
  * [Node.js](node.js-README.md) -  Node.js template
+ * [iOS](ios-README.md) -  iOS template
 
 # Contributing
 
